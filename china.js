@@ -17,5 +17,5 @@
     } else {
         chart = require('tui-chart');
     }
-    chart.registerMap('china', data);
+    chart.registerMap('china', Data);
 })();
